@@ -9,13 +9,13 @@ This dataset is an analysis dataset from the forest department performed in the 
 National Forest of northern Colorado.
 
 Integer Classification of the forest cover types:
-● 1 - Spruce/Fir
-● 2 - Lodgepole Pine
-● 3 - Ponderosa Pine
-● 4 - Cottonwood/Willow
-● 5 - Aspen
-● 6 - Douglas-fir
-● 7 - Krummholz
+1 - Spruce/Fir
+2 - Lodgepole Pine
+3 - Ponderosa Pine
+4 - Cottonwood/Willow
+5 - Aspen
+6 - Douglas-fir
+7 - Krummholz
 
 
 Description of main columns:
